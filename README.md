@@ -1,0 +1,2 @@
+# Bayesian-Sensor-Fusion-and-Dynamic-Target-Tracking
+Machine Learning-Driven Bayesian Sensor Fusion and Dynamic Target Tracking for Next-Gen surveillance systems integrating probabilistic reasoning, reinforcement learning and deep fusion networks for real-time decision-making. The system integrates a Kalman Filter for linear state estimation and a Particle Filter for non-linear uncertainty modeling.
